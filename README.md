@@ -1,4 +1,4 @@
-# 7506R_TP1_GRUPO27
+# 7506R_1C2023_GRUPO27
 Entrega TP1
 
 Alumnos: 
